@@ -20,6 +20,14 @@ body {
 	position: relative;
 }
 
+.mtop {
+       margin-bottom:50px;
+}
+
+.mbottom {
+	margin-top:50px;
+}
+
 .container {
 	width: 100%;
 	height: 100%;
